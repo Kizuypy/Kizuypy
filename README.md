@@ -24,7 +24,7 @@ Atualmente aprofundando conhecimentos em **Python avançado** e consolidando **J
 ## 📂 Projetos em Destaque
 
 ### [100-Days-of-Python](https://github.com/Kizuypy/100-days-of-python)
-Exercícios diários de Python, do básico ao avançado, incluindo **automação, POO, TDD e aplicação prática de Design Patterns**.
+Exercícios diários de Python, e minha evolução.
 
 ### **Projetos JavaScript**
 Desenvolvimento de aplicações web interativas com **Node.js e Express**, explorando desde fundamentos da linguagem até integrações com APIs.
