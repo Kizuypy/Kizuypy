@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá! 👋 Eu sou o Vinicius Rodrigues
 
-<!--
-**Kizuypy/Kizuypy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Developer em formação** | Python & JavaScript  
 
-Here are some ideas to get you started:
+Atualmente estou **aprendendo Python avançado** e consolidando conhecimentos em JavaScript.  
+Meu objetivo é **desenvolver soluções escaláveis e automatizadas**, aplicando boas práticas de programação e metodologias modernas como **POO, TDD e Design Patterns**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tecnologias e habilidades em desenvolvimento
+
+- **Linguagens:** Python, JavaScript, SQL  
+- **Frameworks / Bibliotecas:** Django, PySide6, Flask, Node.js (básico)  
+- **Automação / Testes:** Selenium, TDD, unittest  
+- **Conceitos:** Programação orientada a objetos (POO), Design Patterns GoF, algoritmos e estruturas de dados  
+- **Ferramentas:** Git, GitHub, VS Code, regex, terminal  
+
+> ⚡ Estou sempre praticando com **exercícios diários** e pequenos projetos, consolidando o aprendizado do curso.  
+
+---
+
+## 📂 Projetos em destaque
+
+- [100-Days-of-Python](https://github.com/Kizuypy/100-days-of-python) – Exercícios diários de Python, do básico ao avançado, incluindo automação, POO e lógica.  
+- [Projeto JavaScript básico](#) – Primeiros passos com JS para aplicações web interativas.  
+
+> 💡 Todos os meus projetos são **práticos e em constante evolução**.  
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Kizuypy GitHub stats](https://github-readme-stats.vercel.app/api?username=Kizuypy&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [Vinicius Rodrigues](https://www.linkedin.com/in/seu-linkedin)  
+- E-mail: seuemail@exemplo.com  
+
+---
+
+> “Aprendizado contínuo é a chave para se tornar um desenvolvedor completo.” 🚀
