@@ -5,7 +5,7 @@
 ### 🚀 Desenvolvedor Backend em Formação | Python & JavaScript
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-henrique-dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius2001_henrique@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vinicius2001_henrique@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kizuypy)
 
 </div>
@@ -86,26 +86,12 @@ explorando desde fundamentos da linguagem até integrações com APIs.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Kizuypy GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kizuypy&show_icons=true&theme=radical&hide_title=false&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizuypy&layout=compact&theme=radical&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kizuypy&theme=radical)
-
-</div>
-
----
-
 ## 📫 Vamos Conectar?
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-henrique-dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius2001_henrique@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vinicius2001_henrique@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Kizuypy)
 
 **📧 vinicius2001_henrique@hotmail.com**
