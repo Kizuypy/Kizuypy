@@ -37,7 +37,7 @@ Acredito que consistência supera intensidade. Código todo dia, aprendizado tod
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-> ⚠️ **Honestidade importa:** as tecnologias marcadas como "Aprendendo agora" estão em curso — ainda não tenho projetos publicados com elas, mas estão chegando.
+> ⚠️ **Atenção:** as tecnologias marcadas como "Aprendendo agora" estão em curso — ainda não tenho projetos publicados com elas, mas estão chegando.
 
 ---
 
